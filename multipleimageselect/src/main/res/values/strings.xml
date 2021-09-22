@@ -2,6 +2,7 @@
     <string name="album_view">Select photo album</string>
     <string name="image_view">Tap to select images</string>
 
+    <string name="app_name">Multiple Image Select</string>
     <string name="add">ADD</string>
     <string name="selected">selected</string>
     <string name="limit_exceeded">Can select a maximum of %d images</string>
